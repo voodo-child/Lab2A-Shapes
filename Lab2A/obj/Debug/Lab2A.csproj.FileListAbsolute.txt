@@ -1,0 +1,6 @@
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\bin\Debug\Lab2A.exe
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\bin\Debug\Lab2A.pdb
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\obj\Debug\Lab2A.exe
+C:\Users\000042235\Downloads\Lab2A-Shapes-master\Lab2A-Shapes-master\Lab2A\obj\Debug\Lab2A.pdb
