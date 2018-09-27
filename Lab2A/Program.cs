@@ -10,6 +10,13 @@ namespace Lab2A
     {
         static void Main(string[] args)
         {
+
+            //Rectangle testObject = new Rectangle();
+            
+            //Console.WriteLine(testObject.CalculateArea().ToString());
+
+            Square square = new Square();
+            
         }
     }
 }
